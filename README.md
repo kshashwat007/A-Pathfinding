@@ -1,2 +1,2 @@
-# A-Pathfinding
+# AI-Pathfinding
 AI using A* pathfinding
